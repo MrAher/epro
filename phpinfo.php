@@ -1,3 +1,3 @@
 <?php
-	phpinfo();
+	phpinfo(); // To test Git from Windows
 ?>
